@@ -1,0 +1,43 @@
+[
+    {
+        "name": "X-Bacon",
+        "recipe": [
+            "bacon",
+            "beefBurger",
+            "cheese"
+        ],
+        "id": "x-bacon"
+    },
+    {
+        "name": "X-Burger",
+        "recipe": [
+            "bacon",
+            "beefBurger"
+        ],
+        "id": "x-burger"
+    },
+    {
+        "name": "X-Egg",
+        "recipe": [
+            "egg",
+            "bacon",
+            "cheese"
+        ],
+        "id": "x-egg"
+    },
+    {
+        "name": "X-Egg Bacon",
+        "recipe": [
+            "egg",
+            "bacon",
+            "beefBurger",
+            "cheese"
+        ],
+        "id": "x-egg-bacon"
+    },
+    {
+        "name": "Lanche personalizado",
+        "recipe": [],
+        "id": "custom"
+    }
+]

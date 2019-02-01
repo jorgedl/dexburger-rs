@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Alface",
+        "price": 0.4,
+        "id": "lettuce"
+    },
+    {
+        "name": "Bacon",
+        "price": 2,
+        "id": "bacon"
+    },
+    {
+        "name": "Hambúrguer de carne",
+        "price": 3,
+        "id": "beefBurger"
+    },
+    {
+        "name": "Ovo",
+        "price": 0.8,
+        "id": "egg"
+    },
+    {
+        "name": "Queijo",
+        "price": 1.5,
+        "id": "cheese"
+    }
+]
