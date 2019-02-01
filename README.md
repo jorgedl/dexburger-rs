@@ -14,5 +14,10 @@ access http://localhost:3000/
 `npm run build` <br />
 Production content will be generated into /dist folder
 
+#### Running into production
+
+Copy dist folder content into your server and run
+`node ./bin/www` <br />
+
 #### Tests
 Not implemented yet
